@@ -1,0 +1,17 @@
+name='chamindu jayahansa'
+age=24
+print("hello \n world")
+print("i am chamindu jayahansa")
+print("i am a student")
+print("i am from colombo")
+print("i am ",age ,"years old")
+print(name)
+print(name[0])
+print(name[3])
+print(name.upper())
+print(name.lower())
+print(name.isupper())
+print(name.upper().isupper())
+print(len(name))
+print(name.index('j'))
+print(name.replace('jayahansa','liyanagama'))
